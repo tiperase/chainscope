@@ -1,0 +1,29 @@
+{
+  "name": "Chainscope Atlas",
+  "description": "Single-profile MCP and A2A agent for wallet intelligence and onchain monitoring.",
+  "url": "https://your-chainscope-deployment.vercel.app",
+  "version": "1.0.0",
+  "author": "dataweb",
+  "capabilities": [
+    "mcp",
+    "a2a",
+    "tools",
+    "prompts",
+    "resources"
+  ],
+  "endpoints": {
+    "mcp": "https://your-chainscope-deployment.vercel.app/mcp",
+    "a2a": "https://your-chainscope-deployment.vercel.app/a2a",
+    "agentCard": "https://your-chainscope-deployment.vercel.app/.well-known/agent-card.json"
+  },
+  "skills": [
+    {
+      "name": "onchain_alpha",
+      "description": "Prompt template for onchain opportunity research."
+    },
+    {
+      "name": "wallet_monitor",
+      "description": "Prompt template for monitoring a strategic wallet set."
+    }
+  ]
+}
