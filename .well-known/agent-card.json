@@ -24,6 +24,58 @@
     {
       "name": "wallet_monitor",
       "description": "Prompt template for monitoring a strategic wallet set."
+    },
+    {
+      "name": "token_brief",
+      "description": "Generate concise token briefs for active assets."
+    },
+    {
+      "name": "wallet_risk",
+      "description": "Screen wallet behavior for concentration and risk clues."
+    },
+    {
+      "name": "chain_summary",
+      "description": "Summarize chain activity, throughput, and fee context."
+    },
+    {
+      "name": "signal_feed",
+      "description": "Produce fast watchlist updates around a chosen theme."
+    },
+    {
+      "name": "liquidity_watch",
+      "description": "Track liquidity changes across venues and token pairs."
+    },
+    {
+      "name": "bridge_flow",
+      "description": "Analyze bridge flows and cross-chain capital movement."
+    },
+    {
+      "name": "smart_money_trace",
+      "description": "Follow notable wallets and infer positioning changes."
+    },
+    {
+      "name": "contract_watch",
+      "description": "Monitor contract interactions and behavior anomalies."
+    },
+    {
+      "name": "launch_monitor",
+      "description": "Watch new launches, mint events, and early market traction."
+    },
+    {
+      "name": "holder_distribution",
+      "description": "Assess holder concentration and ownership structure."
+    },
+    {
+      "name": "dex_activity_scan",
+      "description": "Read DEX activity for flow, volatility, and momentum clues."
+    },
+    {
+      "name": "risk_alerts",
+      "description": "Highlight onchain conditions that raise immediate risk."
+    },
+    {
+      "name": "thesis_validation",
+      "description": "Validate or challenge an onchain thesis with supporting signals."
     }
   ]
 }
